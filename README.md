@@ -1,1 +1,1 @@
-# Standford-NLP-slides
+# Stanford-NLP-slides
