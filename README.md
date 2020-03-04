@@ -1,6 +1,6 @@
 # Stanford-NLP-slides
-
-#Introduction		
+## Content
+*Introduction		
  Basic Text Processing		
  Minimum Edit Distance		
  Language Modeling		
